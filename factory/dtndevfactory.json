@@ -1,0 +1,9 @@
+{
+	"name": "dtndevfactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad89b61e-cb6e-4c85-bc7b-c34d223e679c",
+		"tenantId": "aef6baf5-6231-4690-9308-23d674d56b05"
+	}
+}
